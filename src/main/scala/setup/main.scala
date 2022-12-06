@@ -23,5 +23,3 @@ def main(): Unit =
   println("Generating tests for day " + day)
   println(puzzleFiles.createTests)
   println()
-
-
