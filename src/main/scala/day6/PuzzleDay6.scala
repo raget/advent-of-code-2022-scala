@@ -21,7 +21,6 @@ class PuzzleDay6 extends PuzzleBase {
   }
 
   override def solvePart2(input: List[String]): String = {
-    val window = 14
     routine(input.head, window).toString
   }
 }
